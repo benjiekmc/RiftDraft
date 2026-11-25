@@ -1,0 +1,6 @@
+{
+  "name": "Wild Rift Draft Assistant",
+  "description": "Fast pre-game ban and pick decision-support tool for League of Legends: Wild Rift ranked draft.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
