@@ -1,4 +1,4 @@
-import { ChampionDefinition } from '../types/draft';
+import type { ChampionDefinition } from '../types/draft.ts';
 
 /**
  * Curated Wild Rift champion catalog.
